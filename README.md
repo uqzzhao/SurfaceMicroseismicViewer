@@ -1,3 +1,5 @@
+![SMV](https://github.com/uqzzhao/SurfaceMicroseismicViewer/blob/master/examples/surfacemicroseismicviewer.png)
+
 # SMV (SurfaceMicroseismicViewer)
 A Qt C++ SEG-Y waveform viewer for microseismic SEG-Y data recorded by iSeis SIGMA instrument. It supports zoom in/out and 1C/3C component switch display.  
 
